@@ -1,1 +1,4 @@
-class Duru{}
+
+class DuruY{}
+
+class CDuru{}
