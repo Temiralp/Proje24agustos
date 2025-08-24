@@ -1,3 +1,4 @@
-class Duru{}
 
-//dur branchi icin degisiklik 1
+class DuruY{}
+
+class CDuru{}
