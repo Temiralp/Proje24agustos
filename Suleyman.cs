@@ -1,1 +1,10 @@
-Class Suleyman{}
+Class Suleyman
+{
+
+
+
+
+
+
+
+}
