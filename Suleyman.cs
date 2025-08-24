@@ -1,10 +1,1 @@
-Class Suleyman
-{
-
-
-
-
-
-
-
-}
+Class Suley
