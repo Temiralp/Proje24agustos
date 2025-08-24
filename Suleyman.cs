@@ -1,1 +1,13 @@
-Class Suleyman{}
+Class Suleyman
+{
+
+
+
+
+değişiklik1 oldu.
+
+
+
+
+
+}
