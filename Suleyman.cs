@@ -1,7 +1,7 @@
 Class Suleyman
 {
 
-Degisiklik Yapildi
+
 
 
 
